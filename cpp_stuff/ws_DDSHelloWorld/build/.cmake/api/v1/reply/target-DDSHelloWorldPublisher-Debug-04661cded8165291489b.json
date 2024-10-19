@@ -1,0 +1,216 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "DDSHelloWorldPublisher"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"add_compile_options"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-std=c++11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "FOONATHAN_MEMORY=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "FOONATHAN_MEMORY_VERSION_MAJOR=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "FOONATHAN_MEMORY_VERSION_MINOR=7"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "FOONATHAN_MEMORY_VERSION_PATCH=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/resnog/code_libs/fastdds_Ws/install/fastrtps/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/resnog/code_libs/fastdds_Ws/install/fastcdr/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"id" : "DDSHelloWorldPublisher::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/resnog/code_libs/fastdds_Ws/install/fastrtps/lib:/home/resnog/code_libs/fastdds_Ws/install/fastcdr/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/resnog/code_libs/fastdds_Ws/install/fastrtps/lib/libfastrtps.so.2.5.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/resnog/code_libs/fastdds_Ws/install/fastcdr/lib/libfastcdr.so.1.0.22",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/lib64/libfoonathan_memory-0.7.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib64/libtinyxml2.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib64/libtinyxml2.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib64/libssl.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib64/libcrypto.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lrt",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "DDSHelloWorldPublisher",
+	"nameOnDisk" : "DDSHelloWorldPublisher",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/HelloWorldPublisher.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/HelloWorld.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/HelloWorldPubSubTypes.cxx",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

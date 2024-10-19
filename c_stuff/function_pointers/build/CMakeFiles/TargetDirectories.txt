@@ -1,0 +1,4 @@
+/Users/segonzal/repos/c_cpp_stuff/c_stuff/function_pointers/build/CMakeFiles/funcptr.dir
+/Users/segonzal/repos/c_cpp_stuff/c_stuff/function_pointers/build/CMakeFiles/func_ptr.dir
+/Users/segonzal/repos/c_cpp_stuff/c_stuff/function_pointers/build/CMakeFiles/edit_cache.dir
+/Users/segonzal/repos/c_cpp_stuff/c_stuff/function_pointers/build/CMakeFiles/rebuild_cache.dir

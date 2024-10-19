@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o liblibname.dylib -install_name @rpath/liblibname.dylib CMakeFiles/libname.dir/src/tester.c.o 

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc librasterlib.a CMakeFiles/rasterlib.dir/src/circle.c.o CMakeFiles/rasterlib.dir/src/display.c.o CMakeFiles/rasterlib.dir/src/point.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib librasterlib.a

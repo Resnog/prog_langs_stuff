@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libfuncptr.dylib -install_name @rpath/libfuncptr.dylib CMakeFiles/funcptr.dir/src/animal.c.o CMakeFiles/funcptr.dir/src/cat.c.o CMakeFiles/funcptr.dir/src/duck.c.o 

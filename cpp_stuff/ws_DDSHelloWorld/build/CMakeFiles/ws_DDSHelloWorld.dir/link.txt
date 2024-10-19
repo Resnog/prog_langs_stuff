@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/ws_DDSHelloWorld.dir/main.cpp.o -o ws_DDSHelloWorld 

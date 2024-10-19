@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -Dlibname_EXPORTS -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/inc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -o CMakeFiles/libname.dir/src/tester.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/src/tester.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/src/tester.c"
+},
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/inc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test_stuff.dir/src/main.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/src/main.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/template_dir/src/main.c"
+}
+]

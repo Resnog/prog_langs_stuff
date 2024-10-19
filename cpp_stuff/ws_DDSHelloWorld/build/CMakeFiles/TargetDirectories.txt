@@ -1,0 +1,6 @@
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/edit_cache.dir
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/package.dir
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/DDSHelloWorldSubscriber.dir
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/package_source.dir
+/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build/CMakeFiles/DDSHelloWorldPublisher.dir

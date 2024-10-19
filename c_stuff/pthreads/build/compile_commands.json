@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DmyThreads_EXPORTS -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/inc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -o CMakeFiles/myThreads.dir/src/some_math_threads.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/some_math_threads.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/some_math_threads.c"
+},
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DmyThreads_EXPORTS -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/inc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -o CMakeFiles/myThreads.dir/src/string_printing.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/string_printing.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/string_printing.c"
+},
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/inc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/thread_examples.dir/src/main.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/main.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/src/main.c"
+}
+]

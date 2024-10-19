@@ -1,0 +1,5 @@
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build/CMakeFiles/myThreads.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build/CMakeFiles/thread_examples.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build/CMakeFiles/run.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build/CMakeFiles/edit_cache.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/pthreads/build/CMakeFiles/rebuild_cache.dir

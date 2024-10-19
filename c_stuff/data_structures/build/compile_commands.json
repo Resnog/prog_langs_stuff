@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -Ddatastruct_EXPORTS -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/inc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -o CMakeFiles/datastruct.dir/src/linked_list.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/src/linked_list.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/src/linked_list.c"
+},
+{
+  "directory": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/inc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test_data_structures.dir/src/main.c.o -c /Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/src/main.c",
+  "file": "/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/src/main.c"
+}
+]

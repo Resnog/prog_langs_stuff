@@ -1,0 +1,8 @@
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/datastruct.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/test_data_structures.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/run.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/say.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/graphviz.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/docs.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/edit_cache.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/c_stuff/data_structures/build/CMakeFiles/rebuild_cache.dir

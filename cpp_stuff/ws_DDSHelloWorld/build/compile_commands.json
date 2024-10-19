@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldSubscriber.dir/src/HelloWorldSubscriber.cpp.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldSubscriber.cpp",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldSubscriber.cpp"
+},
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldSubscriber.dir/src/HelloWorld.cxx.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorld.cxx",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorld.cxx"
+},
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldSubscriber.dir/src/HelloWorldPubSubTypes.cxx.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPubSubTypes.cxx",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPubSubTypes.cxx"
+},
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldPublisher.dir/src/HelloWorldPublisher.cpp.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPublisher.cpp",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPublisher.cpp"
+},
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldPublisher.dir/src/HelloWorld.cxx.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorld.cxx",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorld.cxx"
+},
+{
+  "directory": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+  "command": "/usr/bin/c++ -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -isystem /home/resnog/code_libs/fastdds_Ws/install/fastrtps/include -isystem /home/resnog/code_libs/fastdds_Ws/install/fastcdr/include -isystem /home/resnog/code_libs/fastdds_Ws/install/foonathan_memory_vendor/include/foonathan_memory -g -std=c++11 -o CMakeFiles/DDSHelloWorldPublisher.dir/src/HelloWorldPubSubTypes.cxx.o -c /home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPubSubTypes.cxx",
+  "file": "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/src/HelloWorldPubSubTypes.cxx"
+}
+]

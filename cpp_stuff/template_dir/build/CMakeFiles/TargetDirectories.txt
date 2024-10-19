@@ -1,0 +1,8 @@
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/libname.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/test_stuff.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/run.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/say.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/graphviz.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/docs.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/edit_cache.dir
+/Users/segonzal/repos/prog_languages_stuff/c_cpp_stuff/cpp_stuff/template_dir/build/CMakeFiles/rebuild_cache.dir

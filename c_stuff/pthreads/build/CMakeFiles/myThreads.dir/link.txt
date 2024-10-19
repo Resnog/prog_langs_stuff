@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libmyThreads.dylib -install_name @rpath/libmyThreads.dylib CMakeFiles/myThreads.dir/src/some_math_threads.c.o CMakeFiles/myThreads.dir/src/string_printing.c.o 

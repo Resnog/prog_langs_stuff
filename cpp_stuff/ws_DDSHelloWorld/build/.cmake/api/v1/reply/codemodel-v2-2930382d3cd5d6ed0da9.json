@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DDSHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DDSHelloWorldPublisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DDSHelloWorldPublisher-Debug-04661cded8165291489b.json",
+					"name" : "DDSHelloWorldPublisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DDSHelloWorldSubscriber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DDSHelloWorldSubscriber-Debug-f7785da4bb41be33560c.json",
+					"name" : "DDSHelloWorldSubscriber",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld/build",
+		"source" : "/home/resnog/myRepos/c_cpp_stuff/cpp_stuff/ws_DDSHelloWorld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
