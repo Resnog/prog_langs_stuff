@@ -1,0 +1,59 @@
+The commands and events in
+this class provide Logical
+Link Control and Adaptation
+Protocol (L2CAP) credit-based
+ logical channels.
+
+An L2CAP credit-based logical
+channel is a logical link
+identified by a channel
+identifier in the assigned
+name space 0x40-0x7F for LE-U
+logical links (the @p cid
+parameter in the commands and
+events of this API class).
+These channels use a
+credit-based flow control
+mechanism. The credit can be
+configured at the channel
+opening and later dynamically
+ updated on the channel.
+
+The Simplified
+Protocol/Service Multiplexer
+(SPSM) of a channel specifies
+the protocol or services the
+channel implements. It can be
+a value for a fixed service
+assigned by the Bluetooth SIG
+or a dynamically-allocated
+value and used with services
+defined in the GATT Server.
+The dynamically-assigned
+value may be used to support
+multiple implementations of a
+particular protocol. See the
+Bluetooth core specification
+for more details. The
+application specifies the
+SPSM value in a channel open
+request in the @p spsm
+parameter of the @ref
+sl_bt_l2cap_open_le_channel
+ command.
+
+Each of the local and peer
+channel endpoints must
+specify the maximum Service
+Data Unit (SDU) size (the
+'MTU' field of the L2CAP
+packets in the Bluetooth Core
+specification) that it can
+receive on the channel. The
+application specifies the
+maximum Service Data Unit
+size (the @p max_sdu
+parameter in commands and
+events) of the local channel
+ endpoint.
+

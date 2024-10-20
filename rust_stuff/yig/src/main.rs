@@ -3,7 +3,7 @@ mod yig;
 use clap::Parser;
 use std::fs::File;
 
-const YIG_MSG_HEADER: &str = "YIG >>";
+const YIG_MSG_HEADER: &str = "<<_YIG_>>";
 
 #[derive(Parser)]
 // Yig CLI commands
@@ -20,15 +20,15 @@ struct Cmds {
     /// Init the YIG configuration
     #[arg(long)]
     init: bool,
-    /// Custom user commands, enter 'list' to show available commands
+    /// Custom user commands, it has the following commands:
+    /// - 'list': show available commands
+    /// - 'add' to add a new command
     #[arg(short, long)]
     command: Option<String>,
 }
 
 fn main() {
-    
     let inputs = Cmds::parse();
-
 
     if inputs.init {
         yig::config::init();
@@ -40,13 +40,16 @@ fn main() {
         let filename = inputs.save.unwrap();
         // Check if the file exists
         if let Err(_) = File::open(&filename) {
-            println!("{} Specified file to save not found in current directory.", YIG_MSG_HEADER);
+            println!(
+                "{} Specified file to save not found in current directory.",
+                YIG_MSG_HEADER
+            );
             return;
         }
-        yig::archive::save(filename);   
+        yig::archive::save(filename);
     }
 
-    if inputs.load.is_some(){
+    if inputs.load.is_some() {
         let filename = inputs.load.unwrap();
         yig::archive::load(filename);
     }
@@ -57,13 +60,13 @@ fn main() {
 
     if inputs.command.is_some() {
         let command = inputs.command.unwrap();
-            if command == "list"{
-                yig::commands::show();
-                return;
-            } else if command == "add"{
-                yig::commands::add();
-            } else {
-                yig::commands::call(&command);
-            }
+        if command == "list" {
+            yig::commands::show();
+            return;
+        } else if command == "add" {
+            yig::commands::add();
+        } else {
+            yig::commands::call(&command);
+        }
     }
 }
