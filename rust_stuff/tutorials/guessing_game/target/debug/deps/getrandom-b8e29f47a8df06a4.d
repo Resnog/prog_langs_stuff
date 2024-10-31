@@ -1,0 +1,11 @@
+/home/greatceph/myRepos/rust_stuff/tutorials/guessing_game/target/debug/deps/getrandom-b8e29f47a8df06a4.rmeta: /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs
+
+/home/greatceph/myRepos/rust_stuff/tutorials/guessing_game/target/debug/deps/getrandom-b8e29f47a8df06a4.d: /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs
+
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs:
+/home/greatceph/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/linux_android.rs:
