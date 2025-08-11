@@ -29,7 +29,7 @@ int random_number(int min_num, int max_num)
 
 int* generate_random_array(size_t size, int min, int max)
 {
-    int* arr = malloc(size);
+    int* arr = malloc(size*sizeof(int));
     if(!arr)
     {
         return NULL;
@@ -63,11 +63,11 @@ int main(){
     print_array(p1, size);
     print_array(p2, size);
 
-    int iter = sortingAlgo[bubble](p1, size);
+    int iter = sortingAlgo[quick](p1, size);
     print_array(p1, size);
     printf("Iterations: %d\n", iter);
 
-    iter = sortingAlgo[bubble](p2, size);
+    iter = sortingAlgo[quick](p2, size);
     print_array(p2, size);
     printf("Iterations: %d\n", iter);
 
